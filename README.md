@@ -26,9 +26,10 @@ This project is an English to French translation system built using Natural Lang
 📂 Project Structure
 
 project-folder/
-│── translation.py
+│── English_to_French_RNN_Project.ipynb
+│──  neron_screenshot.png
 │── README.md
-│── neron_screenshot.png
+|--eng_-french.csv
 
 ---
 
